@@ -65,3 +65,76 @@ Find Best Matching FAQ
 Similarity Threshold Check
       ↓
 Chatbot Response
+```
+---
+
+## 📂 Project Structure
+
+```text
+FAQ-Chatbot/
+│
+├── app.py
+├── chatbot.py
+├── faq_data.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+---
+
+## 💰 Cost
+
+This project is completely free to run.
+
+It does not require:
+
+- Paid APIs
+- OpenAI API keys
+- Gemini API keys
+- Paid cloud services
+- Paid databases
+
+All NLP processing is performed locally using Python libraries.
+
+---
+
+## 🚀 Future Improvements
+
+Possible future enhancements include:
+
+- 🌐 Multilingual support
+- 🧠 Semantic embeddings
+- 🎤 Voice input
+- 📊 Chatbot analytics
+- 🗄️ Database integration
+- 🎯 Improved intent detection
+- 👨‍💼 Admin interface for managing FAQs
+- 📱 Further UI improvements
+
+---
+
+## 🎯 Internship Objective
+
+The objective of this project is to demonstrate the practical use of Artificial Intelligence and Natural Language Processing for building an intelligent question-answering system.
+
+The project demonstrates:
+
+- NLP preprocessing
+- Text vectorization
+- Similarity-based matching
+- Automated response generation
+- Interactive web application development
+
+---
+
+## 👨‍💻 Author
+
+SATYA PRIYA
+
+Developed as part of the CodeAlpha Artificial Intelligence Internship.
+
+---
+
+## 📄 License
+
+This project is created for educational and internship purposes.
